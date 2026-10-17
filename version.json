@@ -1,7 +1,7 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.1",
-    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.1.apk",
-    "sha256":  "c4f1d0720b47c3bc3a52053ed9c9aa46c0b00766ea96ab87c0d7906d86d9061e",
-    "notes":  "新增：检查更新；默认 40 分钟（19:00–19:40）"
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.2.apk",
+    "sha256":  "c91a44c34b9200518142985a52e56f524bbe1e32c9e315d5ed5499bb0bce4b9b",
+    "notes":  "默认开始时间改为 16:00（16:00–16:40）"
 }
