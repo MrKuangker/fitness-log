@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.3",
-    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.3.apk",
-    "sha256":  "624e055be41659480634480edcc6cc5bc16163fdd8f5a91f8f2a756effc07bc0",
-    "notes":  "新增走路（默认 10000 步，1000 步一档）"
+    "versionCode":  5,
+    "versionName":  "1.4",
+    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.4.apk",
+    "sha256":  "fc07b988cc12fda02079c46eff49da987ace4739b657557344830e7d150d6ee1",
+    "notes":  "新增喝水计数（1 杯 500ml，目标 2L）"
 }
