@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2",
-    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.2.apk",
-    "sha256":  "c91a44c34b9200518142985a52e56f524bbe1e32c9e315d5ed5499bb0bce4b9b",
-    "notes":  "默认开始时间改为 16:00（16:00–16:40）"
+    "versionCode":  4,
+    "versionName":  "1.3",
+    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.3.apk",
+    "sha256":  "624e055be41659480634480edcc6cc5bc16163fdd8f5a91f8f2a756effc07bc0",
+    "notes":  "新增走路（默认 10000 步，1000 步一档）"
 }
