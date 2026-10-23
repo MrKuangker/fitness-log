@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.6.apk",
-    "sha256":  "750822af4b356eada795109140883bbf50c1be27940e7d6773cbf7948edc0795",
-    "notes":  "默认时间改为 16:20–17:00"
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apkUrl":  "https://mrkuangker.github.io/fitness-log/fitness-log-v1.7.apk",
+    "sha256":  "bb2c39ffba04c84609f90d503a4c000b7cfc5f3a975216eb61284719ca67d6d4",
+    "notes":  "每日喝水目标改为 2.5L（2026-10-23 起）"
 }
